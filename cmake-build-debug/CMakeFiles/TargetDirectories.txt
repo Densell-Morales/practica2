@@ -1,0 +1,3 @@
+C:/Universidad/Tercer semestre/Progra/repaso_parcial_2/cmake-build-debug/CMakeFiles/repaso_parcial_2.dir
+C:/Universidad/Tercer semestre/Progra/repaso_parcial_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Universidad/Tercer semestre/Progra/repaso_parcial_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

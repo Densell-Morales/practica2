@@ -1,0 +1,14 @@
+# ninja log v5
+7	684	7049641720175971	CMakeFiles/repaso_parcial_2.dir/main.cpp.obj	ad8ccc3bcad54465
+7	988	7049642861724228	CMakeFiles/repaso_parcial_2.dir/manejo_de_archivos.cpp.obj	5dc1d62db5eb356a
+989	1169	7049642863489684	repaso_parcial_2.exe	bf7d00dd2041adb4
+7	632	7049643478336777	CMakeFiles/repaso_parcial_2.dir/main.cpp.obj	ad8ccc3bcad54465
+633	779	7049643479786959	repaso_parcial_2.exe	bf7d00dd2041adb4
+6	853	7049644553293873	CMakeFiles/repaso_parcial_2.dir/main.cpp.obj	ad8ccc3bcad54465
+854	1010	7049644554849701	repaso_parcial_2.exe	bf7d00dd2041adb4
+6	773	7049645669006360	CMakeFiles/repaso_parcial_2.dir/manejo_de_archivos.cpp.obj	5dc1d62db5eb356a
+775	922	7049645670442425	repaso_parcial_2.exe	bf7d00dd2041adb4
+9	923	7049647258931071	CMakeFiles/repaso_parcial_2.dir/manejo_de_archivos.cpp.obj	5dc1d62db5eb356a
+924	1164	7049647261161647	repaso_parcial_2.exe	bf7d00dd2041adb4
+7	770	7049647591100744	CMakeFiles/repaso_parcial_2.dir/manejo_de_archivos.cpp.obj	5dc1d62db5eb356a
+771	938	7049647592696476	repaso_parcial_2.exe	bf7d00dd2041adb4
