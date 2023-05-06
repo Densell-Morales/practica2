@@ -26,6 +26,7 @@ int main() {
         case 4:{ caso4(); break;}
         case 5:{ caso5(); break;}
     }
+    cout <<"comm1";
 
     return 0;
 }
