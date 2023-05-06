@@ -26,9 +26,6 @@ int main() {
         case 4:{ caso4(); break;}
         case 5:{ caso5(); break;}
     }
-    cout << "commit numero 2";
-    cout << "commit numero 3";
-    cout << "hola";
 
     return 0;
 }
